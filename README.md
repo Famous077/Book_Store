@@ -48,9 +48,9 @@ A decentralized application (DApp) that allows users to **publish, buy, and revi
 
 - `BookPublished(bookId, title, publisher)`  
 - `BookPurchased(bookId, buyer)`  
-- `ReviewAdded(reviewId, bookId, reviewer, rating)`  
+- `ReviewAdded(reviewId, bookId, reviewer, rating)`
 
----
+Not deployed properl(project not found)y:[ https://book-store-tan-psi.vercel.app/]
 
 ## ⚡ Quick Start
 
